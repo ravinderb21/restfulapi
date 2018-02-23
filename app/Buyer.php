@@ -7,7 +7,6 @@ use App\Transaction;
 
 class Buyer extends User
 {
-
 	protected static function boot()
 	{
 		parent::boot();
